@@ -1,6 +1,7 @@
-main text of home
+theme: jekyll-theme-architect
+# main text of home
 name: Joanne Tseng
-bio: Machine Learning Engineer at Appdiff
+bio: Machine Learning Engineer at test.ai
 
 # twitter summary info
 description: A blog about technology and stuff related
